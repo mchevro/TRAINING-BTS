@@ -31,8 +31,8 @@
   - LINK BUDGET
     - Azimuth
     - Tinggi Tiang
+    - Frequency (MHz)
     - Polarisasi (Vertical atau Hirizontal)
-    - Frequensi
     - Antenna Model (High atau Low)
     - RX Signal (dBm)
     - TX power (dBm)
